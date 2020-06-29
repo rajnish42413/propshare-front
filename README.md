@@ -10,11 +10,6 @@
   or
   https://inspiring-pare-9849a7.netlify.com/
 
-
-## DataBase Design
-  ![alt text](https://res.cloudinary.com/dh7apsl5o/image/upload/v1571078665/Innoscripta-pizza-task_itf5dp.png)
-
-
 <hr>
 
 ## Getting Started
@@ -37,7 +32,7 @@ After cloning, run:
 then
 
 ```bash
-   yarn start 
+  yarn start 
 ```
 
 and visit [http://localhost:1234](http://localhost:1234) to see the application in action.
