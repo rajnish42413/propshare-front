@@ -35,7 +35,7 @@ then
   yarn start 
 ```
 
-and visit [http://localhost:1234](http://localhost:1234) to see the application in action.
+and visit [http://localhost:3000/signup](http://localhost:1234) to see the application in action.
 
 ## Built With
 * [React](https://reactjs.org) - A JavaScript library for building user interfaces
