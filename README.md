@@ -1,51 +1,48 @@
-# React TypeScript Ant Design Boilerplate
+# PROSHARE PWA TASK
 
-React Boilerplate using TypeScript and Ant Design. This boilerplate uses [Create React App](https://github.com/facebook/create-react-app)
+ <div style="width:100%"height="510px" >
+  <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1593402416/propshare/003.png" width="30%" height="300px" style="padding:5%">
+  <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1593402416/propshare/002.png" width="30%" height="300px" style="padding:5%">
+   <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1593402419/propshare/001.png" width="30%" height="300px" style="padding:5%">
+  </div>
+  
+  <a href="https://inspiring-pare-9849a7.netlify.com/">DEMO HERE</a>  
+  or
+  https://inspiring-pare-9849a7.netlify.com/
 
-## Features
 
-- TypeScript language
-- LESS for styling
-- Airbnb's JavaScript (ES6) style guide.
-- TSlint for TypeScript and StyleLint for LESS
-- Prettier for code formatter
-- Ant Design as UI framework
-- React hooks
+## DataBase Design
+  ![alt text](https://res.cloudinary.com/dh7apsl5o/image/upload/v1571078665/Innoscripta-pizza-task_itf5dp.png)
 
-## Components
 
-- [Antd](https://ant.design/) as UI framework.
-- [Jest](https://jestjs.io/) as as test framework.
-- [LESS](http://lesscss.org/) as CSS preprocessing.
-- [Prettier](https://prettier.io/) for code formatter.
-- [React](https://facebook.github.io/react/) as front-end view library.
-- [Redux](https://redux.js.org/) for state container.
-- [Redux-Saga](https://github.com/redux-saga/redux-saga) to fetching asynchronous data with redux.
-- [StyleLint](https://stylelint.io/) for LESS linting.
-- [TSlint](https://palantir.github.io/tslint/) for TypeScript linting using Airbnb's JS style guide.
-- [TypeScript](https://www.typescriptlang.org/) as main language.
+<hr>
 
-## Getting Start
+## Getting Started
 
-Run the following commands in your terminal
+### Prerequisites
+  Install Yarn : FAST, RELIABLE, AND SECURE DEPENDENCY MANAGEMENT
+   
+ Clone the project repository by running the command below
 
 ```bash
-git clone https://github.com/LucasBassetti/react-typescript-antd-boilerplate.git
-cd react-typescript-antd-boilerplate
-yarn install
-yarn start
+git clone https://github.com/rajnish42413/propshare-front
 ```
 
-Then open [http://localhost:3000/](http://localhost:3000/) on your web browser.
+After cloning, run:
 
-### Testing
+```bash
+  yarn  
+```
 
-1. Run `npm test` for test.
+then
 
-## Deploying
+```bash
+   yarn start 
+```
 
-For deployment, run `npm run build` and upload `build/` to your server.
+and visit [http://localhost:1234](http://localhost:1234) to see the application in action.
 
-## License
-
-MIT · [Lucas Bassetti](http://lucasbassetti.com.br)
+## Built With
+* [React](https://reactjs.org) - A JavaScript library for building user interfaces
+* [Ant Design](https://ant.design/) - A design system with values of Nature and Determinacy for better user experience of enterprise applications
+* [Redux](https://redux.js.org/) - A JavaScript library for building user interfaces
