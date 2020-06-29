@@ -6,9 +6,9 @@
    <img src="https://res.cloudinary.com/dh7apsl5o/image/upload/v1593402419/propshare/001.png" width="30%" height="300px" style="padding:5%">
   </div>
   
-  <a href="https://vimeo.com/user68743395/review/433487696/d0341275d7/">DEMO HERE</a>  
+  <a href="https://vimeo.com/433487696">DEMO HERE</a>  
   or
-  https://vimeo.com/user68743395/review/433487696/d0341275d7
+  https://vimeo.com/433487696
 
 <hr>
 
