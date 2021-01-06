@@ -29,7 +29,7 @@
     "@types/react-router-dom": "^5.1.5",
     "@types/redux": "^3.6.0",
     "antd": "^4.3.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "connected-react-router": "^6.5.2",
     "history": "^5.0.0",
     "i18next": "^15.0.6",
